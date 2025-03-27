@@ -110,7 +110,7 @@
         "id": 16,
         "client_name": "SEKO SGLM",
         "client_ID": "gg_106263452150533879793",
-        "client_DateExpired": "2025-10-22",
+        "client_DateExpired": "2029-10-22",
         "status": 1
     },
     {
