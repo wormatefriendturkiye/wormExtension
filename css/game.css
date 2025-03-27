@@ -1,9 +1,9 @@
-@import url("https://wormmedia.com.tr/extension/css/font.css"); ::-webkit-scrollbar {
+@import url("https://haylamday.com/css/font.css"); ::-webkit-scrollbar {
     display: none;
 }
 
 * {
-    font-family: yil2do;
+    font-family: vuonghiep;
 }
 
 body, html {
@@ -171,9 +171,9 @@ body {
     height: 100%;
     position: absolute;
     top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    /* right: 0; */
+    /* bottom: 0; */
+    /* left: 0; */
 }
 
 /* VarsayÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±lan buton stili */
@@ -528,11 +528,13 @@ body {
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text {
     border-radius: 5px;
-    background: #252535;    height: 320px;
+    /* background: #252535; */
+    height: 320px;
     margin: 30px 0;
     overflow: scroll;
     padding: 2px 5px;
     box-sizing: border-box;
+    box-shadow: 0px 0px 15px 10px #00a1ff;
 }
 
 .title-wormate-yildo-flag {
@@ -891,12 +893,14 @@ body {
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-middle #mm-menu-cont #mm-advice-cont {
-    height: 50px;
-    line-height: 50px;
+    height: 51px;
+    line-height: 64px;
     text-align: center;
     position: relative;
     overflow: hidden;
-    margin-top: 10px;
+    margin-top: 3px;
+    margin-left: -41px;
+    width: 396px;
 }
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-middle #mm-menu-cont #mm-advice-cont .mm-advice {
